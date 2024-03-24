@@ -2,6 +2,8 @@
 
 This project is a simple implementation of a 3-column preview card component using Vite and React. It's designed to showcase three cards side by side, each containing an image, title, and description. A challenge by Frontend Mentor.
 
+![Preview](/public/preview.png)
+
 ## Technologies Used
 
 - [Vite](https://vitejs.dev/): A build tool that aims to provide a faster and leaner development experience for modern web projects.
