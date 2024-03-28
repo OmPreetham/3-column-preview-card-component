@@ -1,4 +1,4 @@
-import PreviewCard from './assets/components/PreviewCard'
+import PreviewCard from './components/PreviewCard'
 
 function App() {
   return (
