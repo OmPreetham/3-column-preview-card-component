@@ -3,7 +3,7 @@ const PreviewCard = () => {
     <section>
       <article>
         <div>
-          <img src="/images/icon-sedans.svg" alt="Sedan Icon" />
+          <img src="./images/icon-sedans.svg" alt="Sedan Icon" />
         </div>
         <div className="description-container">
           <p>
@@ -20,7 +20,7 @@ const PreviewCard = () => {
       </article>
       <article>
         <div>
-          <img src="/images/icon-suvs.svg" alt="SUV Icon" />
+          <img src="./images/icon-suvs.svg" alt="SUV Icon" />
         </div>
         <div className="description-container">
           <p>
@@ -37,7 +37,7 @@ const PreviewCard = () => {
       </article>
       <article>
         <div>
-          <img src="/images/icon-luxury.svg" alt="Luxury Icon" />
+          <img src="./images/icon-luxury.svg" alt="Luxury Icon" />
         </div>
         <div className="description-container">
           <p>
